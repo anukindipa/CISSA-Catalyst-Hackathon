@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import styled from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import axios from 'axios';
+import ReactMarkdown from 'react-markdown';
 import { useAuth } from '../contexts/AuthContext';
 import { Container, Title, Button, Card, Badge } from '../styles/GlobalStyle';
 import RocketLoading from './RocketLoading';
@@ -210,7 +211,44 @@ const SolutionHeader = styled.div`
 const SolutionText = styled.div`
   color: ${props => props.theme.colors.text};
   line-height: 1.6;
-  white-space: pre-wrap;
+  
+  /* Markdown styling */
+  h1, h2, h3, h4, h5, h6 {
+    color: ${props => props.theme.colors.primary};
+    margin: 1rem 0 0.5rem 0;
+  }
+  
+  p {
+    margin: 0.5rem 0;
+  }
+  
+  ul, ol {
+    margin: 0.5rem 0;
+    padding-left: 1.5rem;
+  }
+  
+  li {
+    margin: 0.25rem 0;
+  }
+  
+  strong {
+    color: ${props => props.theme.colors.primary};
+    font-weight: bold;
+  }
+  
+  code {
+    background: ${props => props.theme.colors.surface};
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+  }
+  
+  blockquote {
+    border-left: 4px solid ${props => props.theme.colors.primary};
+    padding-left: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+  }
 `;
 
 const TitleContainer = styled.div`
@@ -820,7 +858,8 @@ const FinanceQuestions = () => {
                   </HintsHeader>
                   {hints.map((hint, index) => (
                     <HintItem key={index}>
-                      <strong>Hint {index + 1}:</strong> {hint}
+                      <strong>Hint {index + 1}:</strong>
+                      <ReactMarkdown>{hint}</ReactMarkdown>
                     </HintItem>
                   ))}
                 </HintsSection>
@@ -850,7 +889,9 @@ const FinanceQuestions = () => {
                   <SolutionHeader>
                     🔍 Solution
                   </SolutionHeader>
-                  <SolutionText>{solution}</SolutionText>
+                  <SolutionText>
+                    <ReactMarkdown>{solution}</ReactMarkdown>
+                  </SolutionText>
                 </SolutionSection>
               )}
             </QuestionCard>

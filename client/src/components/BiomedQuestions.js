@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import styled from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import axios from 'axios';
+import ReactMarkdown from 'react-markdown';
 import { useAuth } from '../contexts/AuthContext';
 import { Container, Title, Button, Card, Badge } from '../styles/GlobalStyle';
 import RocketLoading from './RocketLoading';
@@ -123,6 +124,44 @@ const SolutionCard = styled(Card)`
   padding: 1.5rem;
   background: ${props => props.theme.colors.surface};
   border-left: 4px solid ${props => props.theme.colors.success};
+  
+  /* Markdown styling */
+  h1, h2, h3, h4, h5, h6 {
+    color: ${props => props.theme.colors.primary};
+    margin: 1rem 0 0.5rem 0;
+  }
+  
+  p {
+    margin: 0.5rem 0;
+  }
+  
+  ul, ol {
+    margin: 0.5rem 0;
+    padding-left: 1.5rem;
+  }
+  
+  li {
+    margin: 0.25rem 0;
+  }
+  
+  strong {
+    color: ${props => props.theme.colors.primary};
+    font-weight: bold;
+  }
+  
+  code {
+    background: ${props => props.theme.colors.background};
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+  }
+  
+  blockquote {
+    border-left: 4px solid ${props => props.theme.colors.primary};
+    padding-left: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+  }
 `;
 
 const HintCard = styled(Card)`
@@ -465,14 +504,14 @@ const BiomedQuestions = () => {
               {showHint && hint && (
                 <HintCard>
                   <h4>💡 Hint:</h4>
-                  <p>{hint}</p>
+                  <ReactMarkdown>{hint}</ReactMarkdown>
                 </HintCard>
               )}
 
               {showSolution && solution && (
                 <SolutionCard>
                   <h4>📖 Solution:</h4>
-                  <div style={{ whiteSpace: 'pre-wrap' }}>{solution}</div>
+                  <ReactMarkdown>{solution}</ReactMarkdown>
                 </SolutionCard>
               )}
 
