@@ -1,0 +1,211 @@
+## EASY (30)
+
+1. What is corporate governance?
+	    
+2. What is the primary duty of a company director?
+    
+3. What does ASIC stand for?
+    
+4. Name one ASX Corporate Governance Principle.
+    
+5. What does a director need to avoid in transactions involving personal gain?
+    
+6. What is meant by “acting with care and diligence”?
+    
+7. To whom do directors owe their duties?
+    
+8. What is a conflict of interest?
+    
+9. What does “acting for a proper purpose” mean?
+    
+10. What is executive remuneration?
+    
+11. Why is disclosure important in corporate governance?
+    
+12. What is the role of the board of directors?
+    
+13. What is the role of a general meeting?
+    
+14. Who enforces directors’ duties in Australia?
+    
+15. What are consequences of breaching directors’ duties?
+    
+16. What is a director’s duty to act in the best interests of the company?
+    
+17. What is insolvent trading?
+    
+18. What does “corporate control” refer to?
+    
+19. Give one example of a corporate governance guideline.
+    
+20. Who is subject to directors’ duties?
+    
+21. What is the role of shareholders in governance?
+    
+22. Why is proper disclosure vital in governance?
+    
+23. Define fiduciary duty.
+    
+24. What is a “duty of loyalty”?
+    
+25. What is a “duty of care”?
+    
+26. What is the ASX?
+    
+27. What is a corporate opportunity?
+    
+28. What is meant by “best interests of the company”?
+    
+29. What is the purpose of executive remuneration disclosure?
+    
+30. Name one form of enforcement by ASIC.
+    
+
+---
+
+## MEDIUM (40)
+
+1. Explain why directors must avoid conflicts of interest and disclose them.
+    
+2. Compare the roles of the board versus general meetings in governance.
+    
+3. Why are ASX guidelines important in corporate governance?
+    
+4. Describe how ASIC enforces directors’ duties.
+    
+5. What are the implications of breaching the duty of care?
+    
+6. Explain how executive remuneration raises governance issues.
+    
+7. How can non-disclosure affect a company’s governance?
+    
+8. What limits does “proper purpose” impose on directors?
+    
+9. Discuss the risks of insolvent trading by directors.
+    
+10. Explain the concept of corporate opportunities and related-party transactions.
+    
+11. What is the impact of poor disclosure on shareholder trust?
+    
+12. Why is the division between board and shareholder power significant?
+    
+13. How might a director’s failure to act with diligence lead to legal consequences?
+    
+14. Why is acting in the best interests of the company essential?
+    
+15. Explain how directors’ duties achieve accountability.
+    
+16. What are the consequences of breaching best-interest duties?
+    
+17. Describe the role of shareholders in monitoring governance.
+    
+18. How does external regulation (like ASIC oversight) strengthen governance?
+    
+19. What challenges arise in executive remuneration disclosure?
+    
+20. Analyze how conflicts of interest can impair board decisions.
+    
+21. Explain how governance guidelines evolve over time.
+    
+22. Describe how enforcement actions affect director behavior.
+    
+23. Why might a director misuse corporate opportunity?
+    
+24. How does insolvent trading undermine stakeholder confidence?
+    
+25. What legal principles underpin directors’ fiduciary duties?
+    
+26. How does disclosure enhance accountability to markets?
+    
+27. Why may boards and shareholders clash on executive pay?
+    
+28. Explain how lack of diligence can result in governance failure.
+    
+29. Discuss how governance frameworks differ internationally.
+    
+30. What role does transparency play in director accountability?
+    
+31. Why is “proper purpose” pivotal in decision-making?
+    
+32. How can ASX recommendations guide governance better than the law?
+    
+33. What role do minority shareholders play in governance?
+    
+34. Explain how enforcement deters misconduct.
+    
+35. How can executive remuneration influence director incentives?
+    
+36. Describe effective disclosure mechanisms in governance.
+    
+37. How does a board uphold governance standards?
+    
+38. What role does legal precedent play in directors’ duty enforcement?
+    
+39. Why must directors place the company over personal interests?
+    
+40. How can a lapse in governance lead to legal reform?
+    
+
+---
+
+## HARD (30)
+
+1. Critically assess the effectiveness of ASIC enforcement in recent cases regarding directors’ duties.
+    
+2. Evaluate the interplay between ASX Principles and statutory duties.
+    
+3. Discuss how executive remuneration can create systemic governance risks.
+    
+4. Analyze the challenges in defining “best interests” in complex corporate structures.
+    
+5. Examine legal standards for “proper purpose” through case law.
+    
+6. Critique the duty of care by referencing a hypothetical governance failure.
+    
+7. Analyze how non-disclosure of conflicts can result in litigation.
+    
+8. Evaluate corporate opportunity misuse and its remedies.
+    
+9. Compare passive vs active shareholder roles in governance oversight.
+    
+10. Discuss insolvent trading’s implications for director liability.
+    
+11. Critically examine ASIC’s role in reforming governance standards.
+    
+12. Assess the limitations of ASX guidelines in enforcing governance culture.
+    
+13. Debate the merits of codifying executive remuneration standards.
+    
+14. Evaluate cross-jurisdictional differences in director duties enforcement.
+    
+15. Examine how governance failures shape regulatory reform.
+    
+16. Analyze the role of fiduciary duty in contemporary corporate scandals.
+    
+17. Critically discuss the balance between board autonomy and shareholder influence.
+    
+18. Evaluate governance enforcement through case examples.
+    
+19. Analyze how legal definitions of “diligence” adapt over time.
+    
+20. Critically assess transparency as a governance mechanism.
+    
+21. Discuss governance challenges in dual-class share structures.
+    
+22. Evaluate remedial mechanisms for breaches of director duties.
+    
+23. Analyze governance failure in a known case (e.g. HIH Insurance).
+    
+24. Critique the effectiveness of board-level controls in preventing misconduct.
+    
+25. Examine the evolving nature of executive pay disclosure standards.
+    
+26. Evaluate “proper purpose” breaches through judicial interpretation.
+    
+27. Analyze how ASIC responds to emerging governance issues (e.g. ESG).
+    
+28. Critically assess the concept of corporate purpose in governance law.
+    
+29. Examine the policy rationale for shareholder primacy in duty interpretation.
+    
+30. Reflect on the future of directors’ duties in light of technological and societal change.

@@ -1,0 +1,116 @@
+✅ Easy (30 Questions)
+1. Define the term 'risk premium'.
+2. What is the primary objective of modern portfolio theory?
+3. Explain the difference between equity securities and fixed interest securities.
+4. What does the term 'mean-variance optimization' refer to?
+5. List two key assumptions of the Capital Asset Pricing Model (CAPM).
+6. What is the formula for calculating the expected return of a portfolio?
+7. Define 'systematic risk'.
+8. What is the significance of the beta coefficient in CAPM?
+9. Explain the concept of 'diversification' in investment portfolios.
+10. What does the term 'liquidity' mean in the context of investments?
+11. What is the difference between a coupon bond and a zero-coupon bond?
+12. Define 'duration' in the context of bond investments.
+13. What is the purpose of bond rating agencies?
+14. Explain the term 'yield to maturity' (YTM).
+15. What is the relationship between bond prices and interest rates?
+16. Define 'portfolio performance evaluation'.
+17. What does the Sharpe ratio measure?
+18. Explain the concept of 'market efficiency'.
+19. What is the Efficient Market Hypothesis (EMH)?
+20. List the three forms of market efficiency according to EMH.
+21. What is the term 'arbitrage' in financial markets?
+22. Define 'capital structure' in corporate finance.
+23. What is the role of a financial intermediary?
+24. Explain the term 'asset allocation'.
+25. What is the difference between active and passive investment strategies?
+26. Define 'systemic risk'.
+27. What is the role of central banks in financial markets?
+28. Explain the concept of 'financial leverage'.
+29. What is the significance of the risk-free rate in investment analysis?
+30. Define 'market capitalization'.
+✅ Medium (40 Questions)
+1. Explain the Capital Asset Pricing Model (CAPM) and its assumptions.
+2. How does the mean-variance optimization framework assist in portfolio selection?
+3. Discuss the limitations of the Efficient Market Hypothesis.
+4. Compare and contrast systematic and unsystematic risk.
+5. Explain the significance of the Security Market Line (SML) in CAPM.
+6. How do you calculate the expected return of a portfolio with two assets?
+7. Discuss the impact of interest rate changes on bond prices.
+8. Explain the concept of 'convexity' in bond pricing.
+9. How do bond duration and convexity affect bond portfolio management?
+10. Discuss the role of credit ratings in bond investment decisions.
+11. Explain the difference between nominal and real interest rates.
+12. How does inflation affect investment returns?
+13. Discuss the role of diversification in reducing portfolio risk.
+14. Explain the concept of 'beta' in the context of portfolio management.
+15. How do you calculate the weighted average cost of capital (WACC)?
+16. Discuss the implications of capital structure decisions on firm value.
+17. Explain the Modigliani-Miller theorem in the context of capital structure.
+18. How do you evaluate the performance of a mutual fund?
+19. Discuss the significance of the Treynor ratio in portfolio performance evaluation.
+20. Explain the concept of 'tracking error' in portfolio management.
+21. Discuss the role of financial intermediaries in capital markets.
+22. Explain the difference between primary and secondary markets.
+23. How do you calculate the price-to-earnings (P/E) ratio?
+24. Discuss the limitations of using P/E ratio as a valuation metric.
+25. Explain the concept of 'market timing' in investment strategy.
+26. Discuss the role of behavioral finance in investment decisions.
+27. Explain the concept of 'loss aversion' in behavioral finance.
+28. How do you calculate the yield to maturity (YTM) of a bond?
+29. Discuss the impact of callable bonds on bond pricing.
+30. Explain the concept of 'duration' and its significance in bond portfolio management.
+31. Discuss the role of central banks in influencing interest rates.
+32. Explain the concept of 'quantitative easing' and its impact on financial markets.
+33. Discuss the implications of exchange rate fluctuations on international investments.
+34. Explain the concept of 'hedging' in investment strategy.
+35. Discuss the role of commodity markets in investment diversification.
+36. Explain the concept of 'systemic risk' and its implications for financial markets.
+37. Discuss the role of financial regulation in maintaining market stability.
+38. Explain the concept of 'moral hazard' in financial markets.
+39. Discuss the implications of financial crises on investment strategies.
+40. Explain the concept of 'financial contagion' and its impact on global markets.
+✅ Hard (30 Analytical/Applied Questions – Investments)
+1. Critically evaluate the assumptions of the Capital Asset Pricing Model (CAPM) and
+discuss their implications for real-world applications.
+2. Analyze the impact of interest rate changes on the pricing of long-term bonds.
+3. Assess the effectiveness of diversification in reducing portfolio risk in emerging markets.
+4. Discuss the limitations of the Efficient Market Hypothesis in the context of behavioral
+finance.
+5. Evaluate the role of credit ratings in bond investment decisions during periods of
+economic downturn.
+6. Analyze the implications of callable bonds on bond portfolio management strategies.
+7. Critically assess the Modigliani-Miller theorem in the context of capital structure
+decisions.
+8. Evaluate the performance of a mutual fund using risk-adjusted return metrics.
+9. Analyze the impact of inflation on the real return of fixed income securities.
+10. Assess the implications of exchange rate fluctuations on international equity
+investments.
+11. Critically evaluate the role of behavioral biases in investment decision-making.
+12. Analyze the impact of central bank monetary policy on bond market dynamics.
+13. Assess the effectiveness of hedging strategies in managing currency risk in international
+portfolios.
+14. Evaluate the implications of financial regulation on market efficiency and investor
+behavior.
+15. Analyze the role of financial intermediaries in the allocation of capital in emerging
+economies.
+16. Critically assess the implications of financial crises on investment strategies and portfolio
+management.
+17. Evaluate the impact of quantitative easing on asset prices and market liquidity.
+18. Analyze the role of commodity markets in portfolio diversification.
+19. Assess the trade-offs between active and passive investment strategies in equity
+markets.
+20. Evaluate how investor risk aversion influences asset allocation decisions.
+21. Analyze the effects of interest rate term structure on fixed income portfolio strategies.
+22. Critically examine the implications of leverage for portfolio returns and risk.
+23. Evaluate the impact of market microstructure (e.g., bid-ask spreads, liquidity) on trading
+strategies.
+24. Analyze how systematic and unsystematic risks interact in multi-asset portfolios.
+25. Assess the limitations of historical data in forecasting future investment returns.
+26. Evaluate the role of derivative securities in hedging portfolio risk.
+27. Discuss how financial contagion can affect international portfolio diversification.
+28. Analyze the challenges of applying theoretical asset pricing models in emerging markets.
+29. Evaluate the use of factor models (e.g., Fama-French) in explaining cross-sectional
+stock returns.
+30. Critically assess the impact of environmental, social, and governance (ESG) factors on
+investment performance.

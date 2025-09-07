@@ -1,0 +1,45 @@
+{
+  "name": "skillsync",
+  "version": "1.0.0",
+  "description": "AI-powered simulation platform for non-CS majors",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "cd client && npm start",
+    "server": "node server.js",
+    "build": "cd client && npm run build",
+    "start": "node server.js",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "keywords": [
+    "ai",
+    "simulation",
+    "education",
+    "law",
+    "biomed",
+    "finance"
+  ],
+  "author": "SkillSync Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.57.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon/issues"
+  },
+  "homepage": "https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon#readme"
+}

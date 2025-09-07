@@ -1,0 +1,122 @@
+Easy (30 Questions)
+1. Define “managing self” in the context of this subject.
+2. What does “managing others” cover?
+3. Name a key topic under managing organisations.
+4. What is stakeholder management?
+5. True/False: Creativity is part of “managing self.”
+6. Define “competitive advantage.”
+7. What is the purpose of group assignments in this course?
+8. In which week is the individual assignment due?
+9. What percentage of the mark do quizzes represent?
+10. What is the duration of the final exam?
+11. Name one learning outcome related to case studies.
+12. What does “value chains” refer to?
+13. What skill does the tutorial programme help develop?
+14. Give one real-world context where management models apply.
+15. What does the term “ecosystems” include here?
+16. What word count is expected for the group assignment?
+17. True/False: The subject has quizzes throughout the semester.
+18. Name one management domain taught.
+19. What does “motivation” belong to: self, others, organisations, or ecosystems?
+20. What percentage of course grade is the final exam?
+21. What is a key feature of managing others?
+22. Describe the role of case studies in one sentence.
+23. What is the total expected time commitment for the semester?
+24. When is the census date in Semester 1?
+25. What two structures does managing organisations refer to?
+26. True/False: Innovation is linked to managing ecosystems.
+27. What core skill is fostered via peer review?
+28. Name one internal factor managers should analyse.
+29. What flexibility is provided by managing self?
+30. What is one key outcome of applying management theory?
+Medium (40 Questions)
+1. Explain how “managing self” impacts leadership effectiveness.
+2. How can teamwork improve when managing others effectively?
+3. Analyse how value chains influence organisational performance.
+4. Describe methods to foster creativity in teams.
+5. Apply a management model to a case of conflict resolution.
+6. Compare managing organisations vs managing ecosystems.
+7. Give a real-life example of stakeholder management.
+8. Critique a management approach in a recent business news story.
+9. Discuss how social purpose influences competitive advantage.
+10. Evaluate the impact of diversity on team dynamics.
+11. Propose a solution to an organisational innovation challenge.
+12. What internal factors should managers analyse for strategic planning?
+13. Assess how managing others can improve workplace wellbeing.
+14. Offer a framework for problem-solving in case studies.
+15. Determine leadership qualities that align with managing self.
+16. Explore innovation’s role in new business creation.
+17. Recommend how value chain analysis could guide strategic improvements.
+18. Interpret quiz content to support tutorial learning objectives.
+19. Suggest a management theory to resolve team conflict.
+20. Explore how you’d develop alternative management models collaboratively.
+21. Compare self-motivation techniques with organisational incentives.
+22. Analyse a management case related to stakeholder conflict.
+23. Discuss the role of case study assignments in shaping critical thinking.
+24. Propose improvements to a firm’s value chain based on theory.
+25. Review a leadership model and its application in diversity management.
+26. Evaluate ecosystem-level challenges in today’s business environment.
+27. Develop realistic recommendations based on a provided organisational case.
+28. Explain how tutorial role plays build communication skills.
+29. Define how internal vs external factors differ in managing organisations.
+30. Question governance vs social purpose—how to balance them.
+31. Reflect on how managing self impacts managing others.
+32. Apply a management theory to entrepreneurship.
+33. Analyse quiz performance trends to improve case-study analysis.
+34. Suggest ways to foster innovation in organisational ecosystems.
+35. Evaluate a firm’s current value chain from a management perspective.
+36. Predict outcomes of improved conflict resolution in teams.
+37. Recommend stakeholder strategies for sustainable business.
+38. Use a management model to critique an organisational failure.
+39. Devise a plan for enhancing team motivation through leadership theory.
+40. Reflect on your personal management theory development after tutorials.
+Hard (30 Questions – LeetCode-style / Open-Ended Reasoning)
+1. Given a dysfunctional team scenario, design a role-play to improve leadership and
+collaboration.
+2. Model a stakeholder engagement plan for introducing innovation across a global value
+chain.
+3. Construct an analytical framework to assess organisational purpose vs competitive
+goals.
+4. Devise a model to balance social purpose with financial performance using case data.
+5. Design a management intervention to resolve a multicultural team conflict.
+6. Propose an ecosystem-level innovation strategy using stakeholder mapping.
+7. Critically evaluate alternative management models for a startup launching in a diverse
+market.
+8. Create a case-based tutorial activity to explore managing self through motivational
+theories.
+9. Build a diagnostic tool to assess internal vs external influences on organisational
+change.
+10. Devise a leadership development simulation that improves creativity and purpose
+alignment.
+11. Design a value-chain optimisation plan using a management framework in a given
+company case.
+12. Construct a stakeholder matrix to manage competing interests in a change initiative.
+13. Develop a collaborative model for peer-to-peer critique of management frameworks.
+14. Propose a model to integrate social purpose into competitive advantage strategically.
+15. Draft a hybrid assignment that blends managing organisations and ecosystems theory
+into practice.
+16. Design an elevator pitch that conveys a management intervention based on tutorial
+learning.
+17. Evaluate a flawed management approach and propose an improved alternative backed
+by theory.
+18. Construct a role-play case for managing diversity-induced conflict using management
+theory.
+19. Plan a simulation exercise demonstrating value chain innovation across stakeholder
+groups.
+20. Design a reflective tool for students to assess their managing-self capabilities.
+21. Model an organisational case where failure to manage ecosystems led to competitive
+decline.
+22. Construct a leadership coaching guide using managing self and self-awareness models.
+23. Design a tutorial-based collaborative critique activity for management frameworks.
+24. Develop a multi-step plan to manage a crisis using all four domains of management.
+25. Construct a strategy to foster creativity under resource constraints in an organisation.
+26. Devise a cross-domain case study combining personal motivation, team dynamics, and
+ecosystem analysis.
+27. Build a management dashboard integrating internal-external analysis influencing
+innovation.
+28. Critically reframe an existing assignment prompt to engage deeper with the ecosystems
+domain.
+29. Model the trade-offs between stakeholder value and competitive advantage using a
+real-world venue.
+30. Design an assessment rubric that measures effective application of management theory
+across the four domains

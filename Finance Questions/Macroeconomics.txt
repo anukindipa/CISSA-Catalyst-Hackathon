@@ -1,0 +1,104 @@
+Easy (30 Questions)
+1. Define the circular flow of income.
+2. What does GDP stand for?
+3. True/False: The Keynesian model focuses on aggregate demand.
+4. Name one function of money in the economy.
+5. What is the AD/AS model used to explain?
+6. Define inflation briefly.
+7. What does “aggregate supply” refer to?
+8. What term describes the total output of an economy?
+9. Name one macroeconomic policy.
+10. What does the financial system include?
+11. True/False: Exchange rates affect the balance of payments.
+12. What does the term “macroeconomic aggregates” include?
+13. Define unemployment in macro economics.
+14. What is the neoclassical growth model concerned with?
+15. What does Keynesian equilibrium determine?
+16. What is meant by monetary policy?
+17. Name one element of fiscal policy.
+18. What’s the difference between nominal and real GDP?
+19. True/False: The AD/AS model shows price level vs. output.
+20. What is a current account in the balance of payments?
+21. Define depreciation of a currency.
+22. Define expansionary fiscal policy in one sentence.
+23. What does contractionary monetary policy do?
+24. What is real GDP?
+25. What role does banks play in the financial system?
+26. Define aggregate demand.
+27. What does a budget deficit mean?
+28. What is economic growth?
+29. Identify one macroeconomic objective.
+30. What is the significance of exchange rates for imports?
+Medium (40 Questions)
+1. Explain how a rise in interest rates shifts the AD curve.
+2. Calculate real GDP given nominal GDP and inflation rate.
+3. Describe how expansionary fiscal policy affects income and output.
+4. Use the AD/AS model to illustrate stagflation.
+5. Contrast the Keynesian and neoclassical growth models.
+6. Interpret the effect of a currency depreciation on net exports.
+7. Evaluate the effectiveness of monetary policy during a recession.
+8. Analyse how government spending affects the circular flow.
+9. Explain why the financial system is essential for investment.
+10. Discuss the impact of inflation on real GDP.
+11. Apply the Keynesian multiplier formula to a spending shock.
+12. Discuss the limitations of fiscal policy in controlling inflation.
+13. Explain the relationship between balance of payments and exchange rates.
+14. Compare short-run vs long-run aggregate supply shifts.
+15. Describe how capital accumulation is treated in growth models.
+16. Analyze how a rise in aggregate supply affects inflation and output.
+17. Explain the role of the Reserve Bank of Australia in macroeconomic stability.
+18. Discuss how inflation targeting might limit policy tools.
+19. Interpret unemployment falling while inflation is rising (Phillips curve insight).
+20. Explain how open economy influences domestic AD/AS equilibrium.
+21. Evaluate import restrictions using the AD/AS framework.
+22. Explain effects of a trade deficit on national income.
+23. Analyze how exchange rate fluctuations affect domestic prices.
+24. Use the Keynesian model to show effects of tax cuts on output.
+25. Compare fiscal and monetary policy in managing demand-side shocks.
+26. Explain terms-of-trade effects on aggregate supply.
+27. Discuss how productivity improvements shift long-run growth path.
+28. Evaluate policy options for combating inflation.
+29. Explain how a strong currency might harm exporters.
+30. Discuss credibility issues in monetary policy.
+31. Analyze how balance of payments crises may emerge.
+32. Explain fiscal multipliers in open economy contexts.
+33. Evaluate reliance on monetary policy in the long run.
+34. Compare Keynesian and classical views on price flexibility.
+35. Use the AD/AS model to show cost-push inflation.
+36. Explain how expectations influence AD/AS outcomes.
+37. Analyze how fiscal sustainability affects growth.
+38. Evaluate impact of exchange rate pegging on macroeconomic autonomy.
+39. Explain the role of capital flows in influencing AD/AS.
+40. Assess pros and cons of government intervention in stabilizing output.
+Hard (30 Questions – LeetCode-Style / Analytical)
+1. Given AD = C(Y – T) + I(r) + G + NX(e) and AS = αY – βP, derive equilibrium price and
+output.
+2. Model the impact of a permanent fiscal expansion on consumption using IS-LM analog.
+3. Build a simulation pseudocode for the Keynesian multiplier process.
+4. Using data on GDP and inflation, write logic to compute real vs nominal GDP.
+5. Derive effects of monetary contraction from LM curve on output and interest.
+6. Design an algorithm to simulate AD/AS shocks under open economy.
+7. From Solow growth model, derive steady-state capital per worker.
+8. Write pseudocode to calculate the fiscal multiplier in simple Keynesian model.
+9. Implement logic to simulate exchange rate adjustment under floating rates.
+10. Model overt monetary financing of deficits and inflation outcomes.
+11. Code a routine to compute real exchange rate from nominal data.
+12. Derive zero-growth equilibrium in neoclassical model given depreciation and savings.
+13. Write algorithm to analyze current account adjustment due to interest rate shocks.
+14. Formulate dynamic response of output to a productivity shock in Solow model.
+15. Design policy evaluation pseudocode comparing inflation and unemployment targets.
+16. Derive Lucas critique implications for future policy effectiveness.
+17. Construct a model to simulate Phillips curve trade-off under expectations adjustment.
+18. Implement logic to calculate balanced-budget multiplier.
+19. Use growth model to derive the golden rule level of capital.
+20. Write algorithm to evaluate alternative policy rules (Taylor rule).
+21. Derive welfare implications from a persistent external shock in open economy.
+22. Build a test for currency overvaluation using fundamentals.
+23. Simulate AD shifts due to consumer confidence changes and compute outputs.
+24. Derive model comparing pegged vs floating exchange rate stability outcomes.
+25. Write logic to back out neutral interest rate from macro data.
+26. Implement pseudocode for computing spending path in Solow model with depreciation.
+27. Construct routine for fiscal policy scenario analysis (G increase, T cut).
+28. Derive inflation inertia from adaptive expectations model.
+29. Code logic to compute output gap using potential and actual GDP.
+30. Build a dynamic model predicting exchange rate from interest parity conditions.

@@ -1,0 +1,134 @@
+✅ Easy (30 questions)
+1. Define the difference between a population and a sample.
+2. What is the formula for the sample mean?
+3. Identify whether the following variable is qualitative or quantitative: "number of students
+enrolled in a course."
+4. A student records the GPA of 5 classmates: 5.0, 4.7, 4.3, 4.9, 4.5. What is the mean
+GPA?
+5. What does the variance measure in a dataset?
+6. What is the difference between descriptive and inferential statistics?
+7. State the two conditions of a probability distribution.
+8. What is the probability of rolling an even number on a fair six-sided die?
+9. Define mutually exclusive events.
+10. If P(A) = 0.3, P(B) = 0.4, and A and B are independent, what is P(A ∩ B)?
+11. What is the expected value of a random variable?
+12. What does the standard deviation represent?
+13. If the probability of rain tomorrow is 0.25, what is the probability it won’t rain?
+14. Name one difference between discrete and continuous distributions.
+15. What is the probability of heads in one toss of a fair coin?
+16. Give one example of a binomial experiment.
+17. What does the Central Limit Theorem (CLT) state in simple terms?
+18. What is the sample proportion formula?
+19. Define a null hypothesis.
+20. Define a p-value.
+21. What does it mean if a 95% confidence interval for a mean is (10, 20)?
+22. What is the formula for the slope coefficient in simple linear regression?
+23. What is correlation?
+24. Distinguish between Type I and Type II errors.
+25. If the standard error decreases, what happens to the width of the confidence interval?
+26. What is the difference between one-tailed and two-tailed tests?
+27. Define homoscedasticity in regression.
+28. What is the coefficient of determination (R²) used for?
+29. Which distribution is used in a hypothesis test for a population mean when σ is
+unknown?
+30. What is the difference between a parameter and a statistic?
+🔶 Medium (40 questions)
+1. A dataset of 200 exam scores has a mean of 65 and standard deviation of 10. Calculate
+the z-score for a student who scored 80.
+2. Explain the difference between stratified sampling and cluster sampling with examples.
+3. A box contains 5 red, 3 blue, and 2 green balls. If one ball is drawn at random, what is
+the probability it is red or green?
+4. In a normal distribution with μ = 100 and σ = 15, what is the probability of observing a
+value greater than 130?
+5. Calculate the expected value of rolling a fair die.
+6. A factory produces light bulbs with a 2% defect rate. If 10 bulbs are tested, what is the
+probability exactly 1 is defective?
+7. What is the difference between point estimation and interval estimation?
+8. Construct a 95% confidence interval for a mean where n=50, x̄ = 100, s=20.
+9. A hypothesis test is conducted with H₀: μ=50 vs H₁: μ≠50. If p=0.03, what conclusion do
+you make at α=0.05?
+10. A consumer claims that a brand of juice contains at least 500ml. Write the null and
+alternative hypotheses.
+11. Explain the difference between independent and dependent samples.
+12. A 95% confidence interval for a mean is (45, 55). If H₀: μ=60, what decision is made?
+13. What are the assumptions of a simple linear regression model?
+14. A correlation coefficient is r= -0.8. Interpret this result.
+15. A regression equation is: Sales = 20 + 5(Advertising). Interpret the slope coefficient.
+16. A regression model has R² = 0.70. What does this mean in context?
+17. For a χ² goodness-of-fit test with 4 categories, how many degrees of freedom are used?
+18. If two dice are rolled, what is the probability the sum is 7?
+19. What is multicollinearity in regression?
+20. Differentiate between simple regression and multiple regression.
+21. Why is the t-distribution used instead of z when sample sizes are small?
+22. A survey finds that 60% of students prefer online lectures. If n=100, what is the standard
+error of the sample proportion?
+23. A hypothesis test finds p=0.15. What does this mean at α=0.05?
+24. Explain the difference between correlation and causation.
+25. A probability density function (PDF) must satisfy two properties. Name them.
+26. What does it mean if residuals in regression are not normally distributed?
+27. A business wants to minimize inventory risk. Explain how probability concepts help
+decision-making.
+28. A coin is biased so that P(H)=0.6. If tossed 4 times, what is the probability of exactly 3
+heads?
+29. Explain the law of large numbers.
+30. A 99% confidence interval is wider than a 95% confidence interval. Why?
+31. Differentiate between descriptive regression analysis and predictive regression analysis.
+32. For a binomial distribution with n=20 and p=0.3, calculate the mean and variance.
+33. What is heteroscedasticity and why is it a problem in regression?
+34. A bank claims average wait time is 5 minutes. A sample of 25 customers has mean=6,
+s=2. Conduct a t-test at α=0.05.
+35. Explain the difference between one-sample and two-sample tests.
+36. If a regression model includes irrelevant variables, what issue arises?
+37. A multiple regression has adjusted R²=0.45 while R²=0.60. Interpret this.
+38. Give an example of a Type I error in business decision-making.
+39. State two limitations of the χ² test.
+40. A production line produces 5% defective items. In a batch of 100, what is the expected
+number of defectives?
+🔴 Hard (30 questions – leetcode style)
+1. A company claims its product life is normally distributed with mean=1000 hours, σ=120.
+A sample of 36 has mean=950. Test at α=0.05 if the claim is valid.
+2. Derive the formula for the least-squares estimator of the slope in simple regression.
+3. A regression output shows β₁=0.8 (p=0.001), β₂=-0.3 (p=0.40). Interpret the results and
+discuss model improvements.
+4. For a binomial distribution, prove that the mean is np and the variance is np(1-p).
+5. A store wants to test if sales are uniformly distributed across weekdays. Conduct a χ²
+test given observed values: Mon=20, Tue=22, Wed=18, Thu=25, Fri=15.
+6. Suppose demand X ~ N(500, 100²). If reorder point is set at 650, what is the probability
+of stockout?
+7. Derive the sampling distribution of the sample mean when the population is normal with
+mean μ and variance σ².
+8. Prove that the correlation coefficient is bounded between -1 and 1.
+9. A bank tests whether average daily transactions differ between two branches. Branch A:
+n=40, mean=120, s=15. Branch B: n=35, mean=110, s=20. Perform a two-sample t-test.
+10. Show how the F-test in regression compares explained variance to unexplained
+variance.
+11. A biased coin has P(H)=0.55. Simulate 1000 tosses and estimate probability of >600
+heads. (Analytical + Simulation reasoning).
+12. Show that the variance of the sample mean decreases as sample size increases.
+13. Derive the formula for the standard error of the sample proportion.
+14. A factory machine produces items with weight ~ N(50, 4). If n=25 items are sampled,
+what is the probability their mean exceeds 51?
+15. A regression model with 3 predictors has R²=0.8 but adjusted R²=0.5. Explain why and
+suggest remedies.
+16. Construct and interpret a 95% confidence interval for regression slope given β̂=2.5,
+SE=0.5.
+17. A sample proportion is 0.4 with n=200. Test H₀: p=0.35 at α=0.05.
+18. A company uses 2 pricing strategies. Strategy A sample: n=50, mean=200, s=20.
+Strategy B: n=60, mean=210, s=25. Test for mean difference.
+19. Show how omitted variable bias arises in regression.
+20. Prove that in a simple regression, the regression line passes through (x̄, ȳ).
+21. In multiple regression, show why VIF (Variance Inflation Factor) is used to detect
+multicollinearity.
+22. A linear regression has residual plot with funnel shape. Explain what this implies and
+how to fix it.
+23. A dataset has skewed distribution. Show why median may be a better measure than
+mean.
+24. Explain why the Central Limit Theorem is critical in hypothesis testing.
+25. A machine produces items with 1% defect rate. If 200 are tested, approximate probability
+of more than 5 defectives using Poisson approximation.
+26. Derive the confidence interval formula for population mean when σ unknown.
+27. A χ² test for independence shows p=0.001. Interpret in context of marketing strategy.
+28. Show mathematically how increasing sample size reduces margin of error in confidence
+intervals.
+29. A regression model has high R² but poor out-of-sample predictions. Explain why.
+30. Compare and contrast parametric vs nonparametric methods, with examples from QM1.

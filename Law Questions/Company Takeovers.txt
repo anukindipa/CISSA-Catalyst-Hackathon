@@ -1,0 +1,211 @@
+#### EASY (30)
+
+1. What is the **Eggleston principle** in the context of takeovers?
+    
+2. What does the **20% rule** refer to in takeover regulation?
+    
+3. Why is a **bidder’s statement** required in a takeover?
+    
+4. What does **ASIC** stand for?
+    
+5. What is the **Takeovers Panel**?
+    
+6. What is a **scheme** alternative in takeovers?
+    
+7. What does a **target’s statement** communicate?
+    
+8. What is **pre-bid activity**?
+    
+9. What is a **defensive strategy** in a takeover?
+    
+10. Define **shareholding disclosure**.
+    
+11. What is an **exempt acquisition**?
+    
+12. What is a **bid** in takeover terms?
+    
+13. What is a **compulsory acquisition**?
+    
+14. What does **Chapter 6 of the Corporations Act 2001** govern?
+    
+15. What is **dispute resolution** in takeovers?
+    
+16. Why are **bidder’s statements** important for shareholders?
+    
+17. What role does the **Takeovers Panel** play?
+    
+18. What is meant by **fairness** in takeover law?
+    
+19. What does **market efficiency** relate to in takeovers?
+    
+20. What is the difference between a **hostile bid** and a friendly one?
+    
+21. What is a **relevant interest** in shareholdings?
+    
+22. What does **due diligence** involve in a takeover?
+    
+23. Define **mandatory offer** under takeover law.
+    
+24. Who are the primary **regulators** in CEO-led takeovers?
+    
+25. What is a **withdrawal offer**?
+    
+26. What is a **partial bid**?
+    
+27. Define **control** in corporate law.
+    
+28. Why must **shareholders** be informed of a bid?
+    
+29. What is a **recommending statement** from a target’s board?
+    
+30. What is the general outcome of **compulsory acquisition**?
+    
+
+---
+
+#### MEDIUM (40)
+
+1. Explain the **Eggleston principles** and why they matter in takeovers.
+    
+2. How does the **20% rule** restrict acquisitions?
+    
+3. Discuss why **shareholding disclosures** are crucial in a takeover.
+    
+4. Compare **scheme of arrangement** versus a takeover bid.
+    
+5. Why are **bidder’s statements** regulated by law?
+    
+6. Explain the purpose of a **target’s statement**.
+    
+7. How do **defensive strategies** affect takeover outcomes?
+    
+8. Describe when an acquisition is considered **exempt**.
+    
+9. What is the role of **ASIC** during a takeover?
+    
+10. How does the **Takeovers Panel** resolve disputes?
+    
+11. Describe legal requirements for **bidder’s statements**.
+    
+12. What must be included in a **target’s statement**?
+    
+13. Why are **pre-bid disclosures** necessary?
+    
+14. How does a **scheme alternative** provide strategic benefits?
+    
+15. Explain compulsory acquisitions under Australian takeover law.
+    
+16. What protections do **minority shareholders** have in takeovers?
+    
+17. How do **market efficiency** goals conflict with **shareholder fairness**?
+    
+18. How is **mandatory offer pricing** determined?
+    
+19. Why must **financial disclosures** in takeover statements be accurate?
+    
+20. What **legal challenges** can arise with defensive strategies?
+    
+21. How can **dual-class share structures** complicate takeovers?
+    
+22. What is the significance of **material information** in takeover statements?
+    
+23. Evaluate the role of **independent advisers** in takeover decisions.
+    
+24. Why is the **Takeovers Panel** preferred over courts in some disputes?
+    
+25. How do **ASIC reviews** contribute to takeover transparency?
+    
+26. What is a **break fee**, and how does it influence bids?
+    
+27. Compare **hostile bids** versus **friendly bids** legally.
+    
+28. Explain the legal criteria for **compulsory acquisition**.
+    
+29. How can **anti-takeover amendments** affect bid strategies?
+    
+30. What are **trust deeds** and their relevance in schemes?
+    
+31. How do **ASIC and Takeovers Panel** coordinate enforcement?
+    
+32. How might a bidder structure disclosures to encourage approvals?
+    
+33. Assess the interplay between **corporate governance** and takeovers.
+    
+34. What are legal risks in **misleading statements** during a bid?
+    
+35. How does the **Corporations Act** shape takeover framework?
+    
+36. Analyze how **dispute resolution** mechanisms differ across jurisdictions.
+    
+37. Why is **stakeholder communication** vital in takeover strategies?
+    
+38. How do **judicial reviews** interact with Takeovers Panel decisions?
+    
+39. How could **defensive tactics** be legally challenged?
+    
+40. What is the significance of **timeliness** in takeover disclosures?
+    
+
+---
+
+#### HARD (30)
+
+1. Critically evaluate the effectiveness of the **Eggleston principles** in balancing efficiency and fairness.
+    
+2. Analyze how the **20% rule** impacts hostile takeover attempts.
+    
+3. Discuss legal and practical considerations of **scheme alternatives** versus bids.
+    
+4. Evaluate **defensive strategies** from both legal and ethical perspectives.
+    
+5. Analyze the role and limitations of **compulsory acquisitions** in takeover law.
+    
+6. Compare **ASIC enforcement** with the Takeovers Panel in recent case examples.
+    
+7. Assess how **shareholding disclosures** influence shareholder behavior.
+    
+8. Evaluate the challenges in drafting lawful and persuasive **bidder’s statements**.
+    
+9. Analyze the legal remedies available for misleading **target’s statements**.
+    
+10. Critically assess the outcome of a real-world takeover case adjudicated by the **Takeovers Panel** (e.g. by Mr. Rodd Levy’s panel experience).
+    
+11. Discuss how **market efficiency** objectives may undermine minority shareholder protections.
+    
+12. Critique the adequacy of current disclosure requirements in Australian takeover law.
+    
+13. Evaluate the role of **independent expert reports** in schemes.
+    
+14. Analyze how recent developments in Chapter 6 law shape **defensive strategies**.
+    
+15. Assess whether compulsory acquisition thresholds are equitable and effective.
+    
+16. Compare regulatory approaches to takeovers in Australia versus another jurisdiction.
+    
+17. Discuss the oversight challenges in takeover regulation faced by **ASIC**.
+    
+18. Evaluate the Takeovers Panel’s dispute resolution approach as an administrative tribunal.
+    
+19. Critically examine how **material non-public information** is managed in bids.
+    
+20. Analyze the legal implications of **strategic misdirection** during pre-bid activity.
+    
+21. Critique whether the **20% rule** remains fit for purpose in today’s capital markets.
+    
+22. Evaluate how **anti-takeover charter amendments** might violate principles of fairness.
+    
+23. Discuss the legal and commercial tensions in **break fee** provisions.
+    
+24. Analyze the interplay between corporate governance failures and takeover outcomes.
+    
+25. Critique the transparency and accountability of **Takeovers Panel orders**.
+    
+26. Analyze the impact of mandatory takeover provisions on **shareholder autonomy**.
+    
+27. Evaluate how **takeover regulation** adapts to technological changes in markets.
+    
+28. Critically assess whether Chapter 6 effectively addresses modern takeover threats.
+    
+29. Analyze law reform proposals related to Australian takeover regulations.
+    
+30. Examine the ethical and legal dimensions of takeover practice for commercial lawyers.

@@ -1,0 +1,105 @@
+Easy (30 Questions)
+1. What is the main aim of Quantitative Methods 2?
+2. Name one prerequisite subject for QM2.
+3. What percentage of the final grade does the exam account for?
+4. How many group assignments are there, and how much is each worth?
+5. What’s critically required for passing this subject?
+6. What’s one skill enhanced through tutorials?
+7. What kind of software skills does this course emphasise?
+8. Name one learning outcome related to model evaluation.
+9. Time limit for the mid-semester test?
+10. How many words does each group assignment require?
+11. Is tutorial participation assessed?
+12. What is meant by “reproducible analyses”?
+13. Give one domain where QM2 methods are applied.
+14. What capability is developed regarding presenting insights?
+15. True/False: QM2 only covers univariate analysis.
+16. What is one common limitation of quantitative models?
+17. True/False: QM2 teaches you to forecast time series.
+18. How many group members typically per assignment?
+19. Can you identify model assumptions in QM2?
+20. True/False: Assignments include equations and graphs.
+21. What is one theoretical focus of QM2?
+22. Tutorial contributions contribute what percent of the grade?
+23. True/False: The exam is a hurdle requirement.
+24. What software might students use in QM2?
+25. True/False: QM2 is only concerned with descriptive statistics.
+26. Name one context where QM2 tools are used.
+27. What skill does critically evaluating models involve?
+28. Why are assignments spaced across weeks?
+29. What is meant by “business analytic tools”?
+30. What’s the role of assignments in QM2?
+Medium (40 Questions)
+1. Explain the importance of testing model assumptions in regression.
+2. Describe when a Logit model is appropriate.
+3. How could you evaluate the limitation of a regression model?
+4. Illustrate why reproducibility matters in data analysis.
+5. Outline how QM2 helps in marketing decisions.
+6. Describe how regression can be used in finance contexts.
+7. What methods are used to validate model fit?
+8. What role do diagnostics play in regression analysis?
+9. Compare interpreting results versus implementing techniques.
+10. Why is model validation critical in time series?
+11. What is an autoregressive distributed lag model?
+12. Explain the concept of forecasting in QM2 context.
+13. How are business variables analysed using QM2 methods?
+14. Discuss how estimation problems are addressed in QM2.
+15. Why is ethical communication of results emphasized?
+16. What is stationarity testing and why is it important?
+17. Describe data analysis in R for a regression problem.
+18. Outline differences between simple and multiple regression.
+19. How are group assignments used to develop statistical reasoning?
+20. Give examples of quantitative models taught in QM2.
+21. Discuss how time series methods support forecasting.
+22. Explain challenges in estimating models with heteroscedastic data.
+23. Describe how correlation differs from causation in QM2.
+24. Why might non-parametric tests be used?
+25. How does QM2 help in building evidence-based business solutions?
+26. Compare QM1 and QM2 in terms of complexity.
+27. Discuss an example of using QM2 in economics research.
+28. What is software reproducibility in QM2 term?
+29. Explain the concept of group-based data analysis.
+30. Outline how combination of qualitative and quantitative insights helps in reporting.
+31. Describe what one of the group assignments might involve.
+32. Explain how to critically interpret diagnostic outputs from regression.
+33. Analyse the importance of sample size in QM2 estimation.
+34. Explain how missing data is dealt with in QM2.
+35. Describe time series stationarity testing methods.
+36. Compare graphical versus numerical model diagnostics.
+37. Explain multicollinearity and how to detect it.
+38. Discuss how tutorial exercises help consolidate learning.
+39. Describe steps to conduct a Logit regression.
+40. Explain why computing reproducibility enhances credibility of analysis.
+✅ Hard (30 Questions – Analytical, No Pseudocode)
+1. Explain how you would check whether a regression model satisfies the assumptions of
+OLS.
+2. What is multicollinearity, how can it be detected, and what are its implications?
+3. Design an example where a Logit model would outperform linear regression.
+4. Describe the steps to test for stationarity in a time series and why it matters.
+5. Discuss the process of selecting lag lengths in autoregressive models.
+6. Explain the Breusch–Pagan test and what it detects in regression models.
+7. Provide an example of when heteroscedasticity might occur in business data.
+8. Compare forward, backward, and stepwise regression methods for model selection.
+9. Outline a framework for conducting reproducible data analysis in QM2.
+10. How can classification thresholds impact model accuracy in binary outcome models?
+11. Compare the use of ANOVA versus regression for analysing group differences.
+12. Interpret how odds ratios from a Logit model can be used in decision-making.
+13. Discuss the importance of lag selection in ARDL models with an applied example.
+14. Identify three diagnostic plots you would use for a regression model and explain what
+each shows.
+15. How do you evaluate whether a model generalises well beyond the sample data?
+16. Why does multicollinearity increase variance in regression coefficient estimates?
+17. Explain how cross-validation improves model reliability.
+18. How are marginal effects calculated and interpreted in Logit regression?
+19. What role do AIC and BIC play in model comparison?
+20. Explain why forecast accuracy typically decreases with longer horizons.
+21. Describe the benefits of reproducible reporting in professional settings.
+22. How can differencing resolve the problem of non-stationarity in time series data?
+23. Discuss the importance of coefficient stability in dynamic models.
+24. Explain how bootstrapping can provide more robust standard errors.
+25. Compare pseudo-R² in Logit models with R² in linear regression.
+26. What diagnostics would you prioritise in a business forecasting model, and why?
+27. Explain how the Durbin–Watson statistic is used in detecting serial correlation.
+28. Why do autoregressive model forecasts become less reliable as time progresses?
+29. Describe how you would structure an applied business report using QM2 tools.
+30. Discuss the role of version control in ensuring integrity of quantitative research.

@@ -1,0 +1,125 @@
+✅ Easy (30 Questions)
+1. Define 'foreign exchange market'.
+2. What is the spot exchange rate?
+3. Explain the concept of 'currency appreciation'.
+4. What does 'hedging' mean in the context of foreign exchange?
+5. Define 'foreign exchange risk'.
+6. What is the difference between a forward contract and a futures contract?
+7. Explain the term 'currency swap'.
+8. What is 'political risk' in international finance?
+9. Define 'country risk'.
+10. What is the purpose of international capital budgeting?
+11. Explain the concept of 'capital structure' in multinational corporations.
+12. What is the 'cost of capital' for a multinational corporation?
+13. Define 'exchange rate risk'.
+14. What is 'economic exposure' in international finance?
+15. Explain 'transaction exposure'.
+16. What is 'translation exposure'?
+17. Define 'foreign exchange market intervention'.
+18. What is the role of the International Monetary Fund (IMF)?
+19. Explain the concept of 'currency pegging'.
+20. What is 'currency devaluation'?
+21. Define 'currency revaluation'.
+22. What is the 'Bretton Woods System'?
+23. Explain the term 'floating exchange rate system'.
+24. What is the 'fixed exchange rate system'?
+25. Define 'currency speculation'.
+26. What is 'currency arbitrage'?
+27. Explain 'covered interest rate parity'.
+28. What is 'uncovered interest rate parity'?
+29. Define 'forward premium'.
+30. What is 'forward discount'?
+✅ Medium (40 Questions)
+1. Explain the factors that influence exchange rates.
+2. Discuss the impact of inflation on exchange rates.
+3. Analyze the relationship between interest rates and exchange rates.
+4. Explain the concept of 'purchasing power parity'.
+5. Discuss the theory of 'interest rate parity'.
+6. Analyze the effects of government intervention in foreign exchange markets.
+7. Explain the role of central banks in managing exchange rates.
+8. Discuss the advantages and disadvantages of a fixed exchange rate system.
+9. Analyze the benefits and risks of a floating exchange rate system.
+10. Explain the concept of 'currency boards'.
+11. Discuss the role of the World Bank in international finance.
+12. Analyze the impact of political instability on foreign exchange markets.
+13. Explain the concept of 'sovereign risk'.
+14. Discuss the implications of capital controls on international finance.
+15. Analyze the effects of trade balances on exchange rates.
+16. Explain the concept of 'capital flight'.
+17. Discuss the role of multinational corporations in foreign exchange markets.
+18. Analyze the impact of foreign direct investment on exchange rates.
+19. Explain the concept of 'currency unions'.
+20. Discuss the advantages and disadvantages of a common currency.
+21. Analyze the effects of economic integration on exchange rates.
+22. Explain the concept of 'currency substitution'.
+23. Discuss the implications of dollarization for a country's economy.
+24. Analyze the impact of exchange rate volatility on international trade.
+25. Explain the concept of 'currency risk management'.
+26. Discuss the role of derivatives in managing currency risk.
+27. Analyze the use of hedging strategies in multinational corporations.
+28. Explain the concept of 'natural hedging'.
+29. Discuss the implications of exchange rate regimes for international finance.
+30. Analyze the effects of speculative attacks on exchange rates.
+31. Explain the concept of 'currency crises'.
+32. Discuss the role of the European Central Bank in managing the euro.
+33. Analyze the impact of Brexit on exchange rates.
+34. Explain the concept of 'emerging market currencies'.
+35. Discuss the challenges of managing exchange rates in emerging markets.
+36. Analyze the effects of global financial crises on exchange rates.
+37. Explain the concept of 'financial contagion'.
+38. Discuss the role of sovereign wealth funds in international finance.
+39. Analyze the impact of exchange rate policies on inflation.
+40. Explain the concept of 'currency misalignment'.
+✅ Hard (30 Analytical/Applied Questions – International Finance)
+1. Critically evaluate the assumptions of purchasing power parity and discuss its
+applicability in real-world scenarios.
+2. Analyze the impact of interest rate differentials on forward exchange rates using interest
+rate parity.
+3. Assess the effectiveness of central bank interventions in stabilizing exchange rates
+during periods of high volatility.
+4. Discuss the implications of a country adopting a currency board arrangement for its
+monetary policy autonomy.
+5. Evaluate the risks and benefits of a country adopting a common currency, such as the
+euro.
+6. Analyze the effects of capital controls on foreign direct investment flows and exchange
+rate stability.
+7. Assess the impact of political risk on the valuation of foreign investments.
+8. Discuss the role of sovereign credit ratings in influencing exchange rates and capital
+flows.
+9. Evaluate the effectiveness of hedging strategies in managing currency risk for
+multinational corporations.
+10. Analyze the impact of currency misalignment on a country’s trade balance and economic
+growth.
+11. Discuss the implications of a country experiencing a currency crisis for its financial
+stability.
+12. Evaluate the role of the International Monetary Fund in providing financial assistance
+during currency crises.
+13. Analyze the effects of exchange rate volatility on international portfolio diversification.
+14. Discuss the challenges of managing exchange rate risk in emerging markets.
+15. Evaluate the impact of exchange rate regimes on a country’s inflation rate and economic
+growth.
+16. Analyze how speculative attacks affect currency stability and investor confidence.
+17. Critically assess the role of multinational corporations in shaping foreign exchange
+markets.
+18. Evaluate the long-term implications of currency devaluation on debt repayment in foreign
+currency.
+19. Analyze how sovereign risk affects the cost of capital for international projects.
+20. Discuss the interaction between political instability and capital flight in emerging
+economies.
+21. Evaluate the effectiveness of derivative instruments, such as options and forwards, in
+mitigating currency risk.
+22. Analyze the economic consequences of dollarization for countries with weak monetary
+policy credibility.
+23. Critically evaluate the impact of Brexit on European and global currency markets.
+24. Assess the risks and benefits of currency hedging for firms engaged in international
+trade.
+25. Analyze how global financial crises propagate through foreign exchange and
+international capital markets.
+26. Evaluate the role of sovereign wealth funds in stabilizing or destabilizing exchange rates.
+27. Analyze how interest rate policy divergence between major economies affects global
+capital flows.
+28. Critically assess the use of currency swaps in managing long-term exposure for
+multinational corporations.
+29. Evaluate the impact of exchange rate volatility on cross-border mergers and acquisitions.
+30. Analyze the effectiveness of policy coordination among central banks in stabilizing
+international financial markets.

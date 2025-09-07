@@ -1,0 +1,115 @@
+Easy (30)
+1. What is the definition of Present Value (PV)?
+2. True or False: Time value of money means a dollar today is worth more than a dollar tomorrow.
+3. What is the formula for future value (FV) with compound interest?
+4. What does CAPM stand for?
+5. Is equity a debt or ownership financing source?
+6. Multiple choice: Which of the following is not a capital budgeting technique?
+A) NPV
+B) IRR
+C) Payback period
+D) CAPM
+7. Short answer: Define diversification in one sentence.
+8. What does NPV > 0 imply about a project?
+9. True/False: Leverage increases potential returns and risk.
+10. What is the risk-free rate in CAPM context?
+11. Multiple choice: What is a short-term financing source?
+A) 10-year bond
+B) Commercial paper
+C) Equity
+D) Preferred stock
+12. What is the formula linking risk and return in CAPM?
+13. Short answer: What is a peer-reviewed task in this course?
+14. Name one generic skill developed in this subject.
+15. True/False: Capital budgeting decisions are irrelevant to asset allocation.
+16. NPV stands for?
+17. What kind of exam makes up 60% of the grade?
+18. Multiple choice: Which leverages a firm?
+A) Risk management
+B) Debt
+C) Equity issuance
+D) Diversification
+19. Define risk management in one sentence.
+20. What financing source involves issuing shares?
+21. True/False: Present value and future value are unrelated.
+22. What is capital budgeting?
+23. Short answer: Explain asset allocation briefly.
+24. What is a peer-reviewed assignment word count?
+25. Multiple choice: Which test is worth 25%? A) Final exam. B) Peer task. C) Mid-semester test. D) None.
+26. Define leverage simply.
+27. What is the range of teaching period weeks in Semester 2, 2025?
+28. What is the total commitment in hours?
+29. True/False: Options can be used to manage financial risks.
+30. Short answer: What does “quota applies” refer to in course availability?
+Medium (40)
+1. Calculate PV of $1,000 received in 5 years at 5% discount rate.
+2. Compare NPV and IRR methods for project evaluation.
+3. Explain how diversification reduces risk with an example.
+4. Given β = 1.2, risk-free rate = 3%, market return = 8%, find expected return (CAPM).
+5. Which is preferable: short-term debt or equity for rapid expansion? Why?
+6. Describe capital structure decision factors.
+7. Compute future value of $500 over 10 years at 6%.
+8. Define and give an example of asset allocation.
+9. Explain how issuing equity affects return on equity.
+10. Compute IRR given cash flows: -100, 50, 60, 70.
+11. What is the mid-sem exam duration?
+12. Define peer-reviewed tasks and their role.
+13. Calculate PV of a perpetuity paying $100 annually at 4%.
+14. Compare risk management methods: options vs insurance.
+15. Discuss pros and cons of leverage.
+16. Interpret NPV = $5,000 for a capital project.
+17. Calculate CAPM return if β = 0.
+18. Which financing source is longest in tenure? Explain.
+19. Apply time-value-of-money to a real-life borrowing decision (short answer).
+20. Derive the formula for present value of an annuity.
+21. Discuss diversification in a portfolio with 3 assets.
+22. Compute required return if market return is 10%, β=1.5, risk-free=2%.
+23. Explain peer-reviewed tasks vs online assignment.
+24. Given course structure, allocate study hours weekly over the term.
+25. Short answer: Leverage vs risk-return trade-off.
+26. Evaluate a project with NPV = -$200, IRR=12%, cost of capital 10%. Decision?
+27. Discuss use of options to hedge currency risk.
+28. Explain capital budgeting vs asset allocation difference.
+29. Define present value and net present value.
+30. Why is some material suitable for non-finance majors?
+31. Compute FV of $200 with continuous compounding at 5% for 3 years.
+32. Compare benefits of short-term vs long-term debt.
+33. Explain distribution decision’s impact on equity value.
+34. What role do peer-reviewed tasks play in assessing theory vs calculation?
+35. Calculate IRR of -50, 30, 30, 50.
+36. Discuss how leverage could lead to financial distress.
+37. Given asset returns and weights, compute portfolio expected return.
+38. How do quotas impact student enrollment?
+39. Describe why formula sheets are provided in exams and how to use them strategically.
+40. Explain time-value-of-money importance in capital budgeting.
+Hard (30)
+1. Derive the general formula for PV of a growing perpetuity.
+2. Solve for IRR using the equation for cash flows: -200, 80, 80, 80 (numeric).
+3. Given a two-asset portfolio, compute variance and explain diversification benefit.
+4. Given debt-equity mix, derive WACC and analyze changes.
+5. Given CAPM, derive cost of equity formula.
+6. Optimize asset allocation between three assets given returns and covariances (setup).
+7. Use option pricing conceptually to hedge interest rate risk.
+8. Analyze a financing choice: debt issuance vs equity for expansion in high-interest environment.
+9. Solve for PV using continuous compounding formula.
+10. Compute duration of a bond and explain interest rate risk (concept).
+11. Derive sensitivity of NPV to discount rate changes.
+12. Compare payback period to NPV: what pitfalls exist?
+13. Given a levered firm's return and debt ratio, derive unlevered return.
+14. Construct a diversified portfolio to minimize variance for given return (setup).
+15. Explain the derivation of CAPM assumptions and limitations.
+16. Calculate PV of annuity with irregular payments using discount factors.
+17. Assess risk-return trade-off using Sharpe ratio conceptually.
+18. Explain how distribution decisions affect firm value under Modigliani–Miller theorem (without taxes).
+19. Analyze using options to hedge commodity price risk.
+20. Derive formula for continuous compounding growth (force of interest).
+21. Optimize capital budget selection under a budget constraint using NPV per dollar invested.
+22. Given project cash flows and covariance with market, calculate beta of project.
+23. Discuss the effect of leverage on a firm’s Beta and cost of equity.
+24. Advanced: estimate terminal value in DCF and sensitivity to growth assumptions.
+25. Derive relationship between APR and EAR.
+26. Evaluate arbitrage opportunity between NPV and IRR conflicts.
+27. Examine impact of increasing debt on firm default probability (conceptual).
+28. Analyze how risk management tools affect capital structure decisions.
+29. Compute forward rate from spot rates (financial mathematics).
+30. Discuss real options in capital budgeting and their valuation challenges.

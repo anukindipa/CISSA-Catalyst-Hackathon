@@ -1,0 +1,211 @@
+## EASY (30)
+
+1. What is the primary purpose of accounting in business?
+    
+2. Name the three main financial statements.
+    
+3. Which financial statement shows a company’s financial position at a single point in time?
+    
+4. What does the income statement measure?
+    
+5. What does the cash flow statement show?
+    
+6. Define “asset” in accounting terms.
+    
+7. Define “liability” in accounting terms.
+    
+8. Define “equity” in accounting terms.
+    
+9. What is the basic accounting equation?
+    
+10. Give one example of a current asset.
+    
+11. Give one example of a current liability.
+    
+12. What does depreciation represent in accounting?
+    
+13. What is accrual accounting?
+    
+14. How does revenue differ from profit?
+    
+15. What is the difference between financial accounting and management accounting?
+    
+16. What does GAAP stand for?
+    
+17. What is double-entry accounting?
+    
+18. What is the role of notes to financial statements?
+    
+19. Who are the primary external users of financial statements?
+    
+20. What does EBIT stand for?
+    
+21. What is meant by “materiality” in accounting?
+    
+22. Which statement would you look at to determine if a company is profitable?
+    
+23. What is the difference between short-term and long-term debt?
+    
+24. What is the purpose of auditing financial statements?
+    
+25. What is goodwill in accounting?
+    
+26. What is the difference between tangible and intangible assets?
+    
+27. What does ROI measure?
+    
+28. What is the difference between gross profit and net profit?
+    
+29. What is the function of accounting policies in a company?
+    
+30. Who sets accounting standards in Australia?
+    
+
+---
+
+## MEDIUM (40)
+
+1. Explain the difference between accrual accounting and cash accounting with an example.
+    
+2. Why is comparability important in financial reporting?
+    
+3. How can inventory valuation methods (FIFO vs LIFO) affect reported profit?
+    
+4. What does the current ratio measure, and how is it calculated?
+    
+5. What is the quick ratio, and why might it be more useful than the current ratio?
+    
+6. Explain the difference between operating cash flow and net profit.
+    
+7. How does depreciation method choice affect financial statements?
+    
+8. Why do companies revalue certain assets?
+    
+9. What does earnings per share (EPS) indicate?
+    
+10. How is return on equity (ROE) calculated?
+    
+11. Why are contingent liabilities disclosed in notes to accounts?
+    
+12. How can accounting choices influence reported earnings?
+    
+13. What is the difference between capital expenditure and operating expenditure?
+    
+14. How is working capital calculated?
+    
+15. What does solvency measure?
+    
+16. What is the role of independent auditors in preventing business failures?
+    
+17. Why are related-party transactions disclosed?
+    
+18. How does leverage affect financial performance?
+    
+19. Explain why accounting information has limitations for decision-making.
+    
+20. How might different depreciation policies impact tax liabilities?
+    
+21. What does a high debt-to-equity ratio suggest about a firm?
+    
+22. How is return on assets (ROA) different from ROE?
+    
+23. Why do financial statements require footnotes?
+    
+24. How do provisions differ from reserves?
+    
+25. Why might a company prefer debt financing over equity financing?
+    
+26. Explain why accounting standards require fair presentation.
+    
+27. What is the difference between realized and unrealized gains?
+    
+28. How does accounting handle doubtful debts?
+    
+29. Why is consistency important in applying accounting policies?
+    
+30. What are the limitations of ratio analysis?
+    
+31. How does creative accounting differ from fraudulent accounting?
+    
+32. Explain the role of prudence in accounting judgments.
+    
+33. How can differences in accounting standards affect cross-border investment decisions?
+    
+34. What is meant by “earnings management”?
+    
+35. Why is disclosure of accounting policies necessary?
+    
+36. How can inadequate internal controls contribute to accounting failures?
+    
+37. How might non-financial information be relevant in legal disputes involving companies?
+    
+38. What is the significance of cash flow adequacy in assessing a company?
+    
+39. How might off-balance-sheet financing obscure a company’s true position?
+    
+40. Why must legal practitioners understand accounting principles?
+    
+
+---
+
+## HARD (30)
+
+1. Analyse how earnings management can distort the true financial performance of a company.
+    
+2. Compare the limitations of financial statements in private companies vs publicly listed companies.
+    
+3. Discuss how creative accounting contributed to a major corporate failure (e.g. Enron).
+    
+4. Evaluate the role of disclosure in protecting investors in complex financial instruments.
+    
+5. How can accounting policy choices influence the outcome of commercial litigation?
+    
+6. Assess the strengths and weaknesses of using ratio analysis in cross-company comparisons.
+    
+7. Explain how different methods of revenue recognition affect profit reporting.
+    
+8. Critically assess the concept of “true and fair view” in financial reporting.
+    
+9. Discuss the relationship between corporate governance and accounting transparency.
+    
+10. How might aggressive accounting policies impact directors’ legal liability?
+    
+11. Evaluate how financial statement manipulation can undermine stakeholder trust.
+    
+12. Compare the accounting treatment of leases under operating vs finance lease rules.
+    
+13. Explain how impairment of goodwill is tested and its legal implications.
+    
+14. Critically assess the adequacy of accounting standards in preventing corporate collapses.
+    
+15. How can deferred tax assets and liabilities complicate interpretation of accounts?
+    
+16. Analyse how accounting scandals have influenced law reforms in Australia.
+    
+17. Discuss the role of auditors in balancing independence and commercial pressures.
+    
+18. How do differences in international accounting standards affect multinational companies?
+    
+19. Evaluate the legal implications of misstated financial reports.
+    
+20. How can forensic accounting be applied in cases of suspected fraud?
+    
+21. Critically evaluate the usefulness of consolidated financial statements.
+    
+22. How might corporate lawyers challenge management’s accounting judgments in litigation?
+    
+23. Analyse how the accounting treatment of provisions affects reported profits.
+    
+24. Discuss the role of fair value accounting in times of financial crisis.
+    
+25. Compare the accounting challenges of public sector entities versus private companies.
+    
+26. Evaluate the extent to which accounting standards promote accountability.
+    
+27. Discuss how improper disclosure of contingent liabilities can affect shareholder rights.
+    
+28. Critically assess the limitations of financial statements in predicting business failures.
+    
+29. Explain how accounting principles can affect the valuation of damages in legal cases.
+    
+30. Reflect on the importance of accounting literacy for legal practitioners in commercial disputes.

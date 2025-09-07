@@ -1,0 +1,111 @@
+Easy (30 Questions)
+1. Define supply in microeconomics.
+2. What is a perfectly competitive market?
+3. Multiple Choice: Who are price takers in a perfectly competitive market?
+A) Firms with monopoly power
+B) Individual firms in a perfectly competitive market
+4. Define equilibrium in the context of supply and demand.
+5. What does welfare analysis study in microeconomics?
+6. True/False: Government policy can affect social welfare.
+7. Short answer: What is consumer theory?
+8. What is the role of models in economics?
+9. True/False: Models never simplify reality.
+10. Explain what "market equilibrium" means.
+11. Multiple Choice: If demand decreases, what happens to equilibrium price?
+A) Rises
+B) Falls
+C) Remains same
+12. Define strategic situation with an economic example.
+13. What does "limited resources" refer to?
+14. True/False: Introductory Microeconomics covers game theory.
+15. Identify one key component of tutorial participation assessment.
+16. What percentage of the subject’s grade is allocated to the end-of-semester exam?
+17. Short answer: Why do we study different market structures?
+18. Which assessment is weighted 25% in Semester 1?
+19. What does a $ supply curve represent?
+20. True/False: Equilibrium quantity is where supply equals demand.
+21. What is welfare in economic terms?
+22. Short answer: Define "perfect competition" in one sentence.
+23. What is a written assignment’s weight?
+24. True/False: A pass mark in the final exam is required to pass the subject.
+25. Multiple Choice: Which term relates to resource scarcity?
+A) Unlimited wants
+B) Limited wants
+C) Abundant resources
+26. Define "demand" briefly.
+27. What does the theory of the firm study?
+28. Short answer: What is a model’s limitation?
+29. True/False: Introductory Microeconomics only benefits economics majors.
+30. What is the significance of quotas in subject availability?
+Medium (40 Questions)
+1. Explain how a price floor affects market equilibrium.
+2. Calculate consumer surplus in a simple linear demand/supply graph.
+3. Analyze how a subsidy shifts supply and affects quantities.
+4. Compare monopoly and perfect competition outcomes in price and output.
+5. Explain adverse effects of price ceilings on housing markets.
+6. Discuss the limitations of the supply-demand model.
+7. Predict how a quota on imports affects domestic prices.
+8. Describe how welfare analysis changes with tax imposition.
+9. Evaluate the impact of a specific tax on producer vs consumer.
+10. Analyze a strategic situation in game theory (e.g., prisoners’ dilemma basics).
+11. How does a change in preferences shift demand curves?
+12. Explain how government intervention corrects externalities.
+13. Short answer: Define marginal cost and marginal benefit.
+14. Given shifts in supply/demand, determine new equilibrium.
+15. Discuss welfare implications of a negative externality.
+16. Quantify deadweight loss from a tax.
+17. Explain how public goods create market failure.
+18. Compare competitive and monopolistic market welfare.
+19. Short answer: Explain opportunity cost with a real life example.
+20. Analyze the role of government in welfare improvement.
+21. Describe supply elasticity and its effects on price changes.
+22. Compare short-run vs long-run cost curves.
+23. Identify a market structure where firms have some price control.
+24. Evaluate how imperfect information affects market outcomes.
+25. Describe the effect of a minimum wage on employment.
+26. Use a simple payoff matrix to deduce dominant strategies.
+27. Discuss the Coase Theorem and its relevance.
+28. Explain a consumer’s budget constraint shift with income change.
+29. Analyze how firm cost changes influence supply.
+30. Short answer: Describe what a hurdle exam requirement is.
+31. Explain the rationale behind enrolment quotas.
+32. Compare supply shifts due to increased production cost vs technology improvement.
+33. Interpret study time allocation given 170 total hours over semester.
+34. Explain moral hazard in microeconomic contexts.
+35. Analyze welfare changes due to lump-sum tax vs per-unit tax.
+36. Short answer: Define comparative advantage in consumption choice.
+37. Describe how an assignment differs from the mid-semester test.
+38. Explain benefits and downsides of tutorial participation.
+39. Given a change in demand and supply, calculate welfare change.
+40. Analyze trade-offs in resource allocation decisions.
+Hard (30 Questions – LeetCode-style, conceptual/deeper reasoning)
+1. Given linear supply/demand functions, derive consumer and producer surplus formulas.
+2. Model and solve a duopoly output decision using Cournot competition.
+3. Derive equilibrium price and quantity under monopoly with linear demand.
+4. Using IS-LM analogy, explore limitations in micro modeling (cross-discipline thinking).
+5. Deduce equilibrium outcomes in a simple public goods game.
+6. Construct and analyze a payoff matrix for strategic firm interaction in pricing.
+7. Derive deadweight loss area given tax incidence in supply-demand graph.
+8. Given utility and budget constraint, derive demand via Lagrangian.
+9. Show how welfare changes with a subsidy using graph and consumer/producer areas.
+10. Model adverse selection in insurance markets and its market failure impact.
+11. Use budget constraints to derive income/price effect via Slutsky equation.
+12. Prove market failure using externality graph and calculate social optimum.
+13. Derive deadweight loss area under price ceiling in supply-demand framework.
+14. Model asymmetric information in used car markets (“lemons problem”).
+15. Solve for equilibrium in Bertrand competition with identical products.
+16. Employ game-theoretic concepts to analyze a one-shot coordination game.
+17. Use Lagrange multiplier to solve firm cost-minimization with two inputs.
+18. Analyze consumer surplus changes when both supply and demand shift.
+19. Derive Marshallian and Hicksian demand curve differences conceptually.
+20. Use consumer utility maximization to show income and substitution effects.
+21. Model moral hazard in principal-agent framework and solve first best vs second best.
+22. Prove existence of equilibrium under general equilibrium conditions for 2-good economy.
+23. Derive optimal tax in simple model considering deadweight loss and equity.
+24. Analyze mechanism design to elicit truthful reporting in auction model.
+25. Derive price-setting outcome under monopolistic competition using CES utility.
+26. Analyze Nash equilibrium in Battle of the Sexes game.
+27. Derive and interpret elasticity of substitution in production function.
+28. Model uncertainty via expected utility and risk aversion in consumer choice.
+29. Derive welfare change from corner solution consumers.
+30. Formally derive welfare theorem’s first result in competitive equilibrium.
