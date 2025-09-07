@@ -272,7 +272,7 @@ const Dashboard = () => {
               )}
             </UserAvatar>
             <UserDetails>
-              <h3>Welcome back, {user?.username}!</h3>
+              <h3>Welcome, {user?.username}!</h3>
               <p>Ready to practice your skills?</p>
             </UserDetails>
           </UserInfo>
